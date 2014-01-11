@@ -208,7 +208,7 @@ hr
 	{
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0em 5em 0em;
+		padding: 3em 0em 5em 0em;
 	}
 
 /*********************************************************************************/
@@ -244,7 +244,7 @@ hr
 	
 	#sidebar .box1
 	{
-		margin-bottom: 3em;
+		margin-bottom: 2em;
 	}
 
 /*********************************************************************************/
@@ -262,7 +262,7 @@ hr
 #header-wrapper
 {
 	overflow: hidden;
-	height: 400px;
+	height: 350px;
 	background: url('images/header.jpg') no-repeat top center;
 	background-size: 100%;
 }
@@ -395,7 +395,8 @@ hr
 
 	.title
 	{
-		margin-bottom: 3em;
+		margin-top: .5em;
+		margin-bottom: 2em;
 	}
 
 	.title h2
